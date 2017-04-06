@@ -38,4 +38,4 @@ The sizes in each dimension are 4-byte integers (MSB first, high endian, like in
 The data is stored like in a C array, i.e. the index in the last dimension changes the fastest.
 
 # Acknowledgement
-We thank Prof. Yann Lecun to kindly allow CVDF to host a copy of images and annotations in MNIST database and Google Cloud Platform to provide storage space.
+We thank Prof. Yann LeCun to kindly allow CVDF to host a copy of images and annotations in MNIST database and Google Cloud Platform to provide storage space.
