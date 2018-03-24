@@ -2,8 +2,8 @@
 The MNIST database of handwritten digits is one of the most popular image recognition datasets. It contains 60k examples for training and 10k examples for testing. This page intends to provide a mirror site for downloading MNIST database hosted on http://yann.lecun.com/exdb/mnist/. Please visit the original site for more details of dataset.
 
 # Download
-[Training images](https://storage.googleapis.com/cvdf-datasets/mnist/t10k-images-idx3-ubyte.gz),
-[Training labels](https://storage.googleapis.com/cvdf-datasets/mnist/t10k-labels-idx1-ubyte.gz)
+[Training images](https://storage.googleapis.com/cvdf-datasets/mnist/train-images-idx3-ubyte.gz),
+[Training labels](https://storage.googleapis.com/cvdf-datasets/mnist/train-labels-idx1-ubyte.gz)
 
 [Testing images ](https://storage.googleapis.com/cvdf-datasets/mnist/t10k-images-idx3-ubyte.gz),
 [Testing labels](https://storage.googleapis.com/cvdf-datasets/mnist/t10k-labels-idx1-ubyte.gz)
